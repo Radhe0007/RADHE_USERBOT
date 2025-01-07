@@ -7,7 +7,7 @@ API_ID = int(27079591) #optional
 API_HASH = "" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(6730956183)
+OWNER_ID = int(6726372149)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
 ALIVE_PIC = 'https://telegra.ph/file/5badd2112e1e0cdf03a1f.jpg'
