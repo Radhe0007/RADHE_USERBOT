@@ -1,4 +1,4 @@
-import asyncio
+bcchaimport asyncio
 from re import sub
 from threading import Event
 
@@ -14,7 +14,7 @@ commands = ["spam", "statspam", "slowspam", "fastspam"]
 SPAM_COUNT = [0]
 
 BLACKLIST_CHAT = []
-BLACKLIST_CHAT.append(-1001521704453)
+BLACKLIST_CHAT.append(-1002367704848)
 
 
 
